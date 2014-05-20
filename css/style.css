@@ -1,0 +1,141 @@
+body{
+   background-color: #ab6928;
+   font-family: 'Roboto', sans-serif;
+   font-size: 13px;
+   }
+   
+.title {
+	font-family: 'Diplomata', cursive;
+	font-size: 30px;
+}
+
+header{
+   background-color: #e4ddc0;
+   height:100px;
+   line-height:100px;
+   margin-bottom:20px;
+   overflow:hidden;
+   }
+   
+footer{
+	bottom:0;
+}
+   
+.locations {
+	font-size:12px;
+	
+	background-color: #e4ddc0; 
+	width: 240px;	
+}
+	
+	.locations h2 {
+		text-align:left;
+	}
+	
+	.locations ul {
+		list-style:circle;
+		margin-bottom:20px;
+		padding:10px;
+	}
+
+	.locations ul li{
+		margin-bottom:5px;
+	}
+
+	.locations ul li p{
+		margin-left: 10px;
+	}
+
+nav {
+	line-height:100px;
+}
+	nav ul{
+  	 	font-size: 15px;
+  	 	padding: 0;
+  	 	margin: 0;
+  	}
+   
+	nav ul li{
+   		list-style: none;
+   		margin:8px;
+   		white-space:nowrap;
+   		display:inline;
+   	}
+
+
+
+.collection p{
+	background-color: #e4ddc0;
+	line-height: 20px;
+	margin-top:10px;
+	margin-bottom:40px;
+	margin-right:-20px;
+	padding:10px;
+	
+}
+
+a{
+	text-decoration: none;
+   	color: #000000;
+   }
+   
+   a:hover{
+   		color: #ab6928;
+   }
+
+.text {
+	background-color: #e4ddc0;
+	padding: 10px;
+}
+
+	.text p{
+		margin-bottom: 10px;
+	}
+
+.contactInfo{
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+
+form {
+	padding:10px;
+}
+
+input {
+	display:block;
+}
+
+#firstName, #email, #lastName, #message{
+	width:100%;
+	height:20px;
+	margin-bottom:10px;
+}
+
+#message{
+	height:100px;
+}
+
+section{
+   background-color: #e4ddc0;
+   color: #000000;
+   padding:20px;
+}
+
+article{
+	margin-bottom:20px;
+}
+   
+ul {
+	list-style: disc;
+}
+
+li {
+	margin-left: 30px;
+}
+   
+ h2{
+		font-size:17px;
+		
+		text-align:center;
+		padding: 10px;
+	}
